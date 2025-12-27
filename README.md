@@ -1,2 +1,13 @@
-# web3-journey
-My Web3 journey covering airdrops, testnets, and open-source contributions.
+# Web3 Journey
+
+This repository documents my personal journey in Web3, including:
+- Airdrop participation
+- Testnet activities
+- Open-source contributions
+
+Goals:
+- Build Web3 reputation
+- Learn through hands-on experience
+- Support decentralized ecosystems
+
+Status: Active learner 🚀
